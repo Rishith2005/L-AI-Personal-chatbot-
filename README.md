@@ -10,7 +10,7 @@ This project is an AI chatbot which acts as a personal assistant in everyday lif
 | Backend        | FastAPI · Python 3.12+ · Uvicorn                |
 | Database       | Supabase PostgreSQL                             |
 | Authentication | Supabase Auth (JWT)                             |
-| AI Provider    | Hugging Face — Qwen/Qwen2.5-Coder-7B-Instruct  |
+| AI Provider    | Hugging Face — deepseek-ai/Deepseek-V4-Pro  |
 
 ## Project Structure
 
