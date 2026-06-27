@@ -41,7 +41,9 @@ npm install
 cp .env.example .env       # Fill in your API URL
 npm run dev
 ```
-
+<img width="1918" height="1031" alt="Screenshot 2026-06-27 120315" src="https://github.com/user-attachments/assets/b978518d-4de9-4983-84da-4e397a18765a" />
+<img width="1918" height="1031" alt="Screenshot 2026-06-27 120610" src="https://github.com/user-attachments/assets/d106bcc0-4e7c-49c4-be81-c7156785d1bf" />
+<img width="1918" height="1026" alt="Screenshot 2026-06-27 120641" src="https://github.com/user-attachments/assets/7455b440-82a1-4818-b97d-61aa4d31ba99" />
 ## License
 
 Private — All rights reserved.
